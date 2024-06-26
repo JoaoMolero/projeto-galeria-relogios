@@ -44,23 +44,10 @@ header{
     background-size: cover;
 }
 
-#img-1{
-    background-image: url(../img/relogio1.jpg);
-}
-#img-2{
-    background-image: url(../img/relogio2.jpg);
-}
-#img-3{
-    background-image: url(../img/relogio3.jpg);
-}
-#img-4{
-    background-image: url(../img/relogio4.jpg);
-}
-#img-5{
-    background-image: url(../img/relogio5.jpg);
-}
-#img-6{
-    background-image: url(../img/relogio6.jpg);
+.img{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 15px;
 }
 
 h3{
